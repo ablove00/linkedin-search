@@ -1,4 +1,4 @@
 fastapi
 uvicorn
-elasticsearch
+elasticsearch==7.17.12
 python-multipart
